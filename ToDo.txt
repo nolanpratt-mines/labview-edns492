@@ -1,0 +1,12 @@
+-Heater Function √
+-Bronkhorst Communications
+-BPR communications
+-Estop functionality (using safety relay, custom setpoints)
+-Thermocouple read in
+-CSV outputting (cloud backup?)
+-Pressure ramp function
+-Clean up UI
+-Graphic display of readouts
+-Clarify function symbols
+-Establish comms to PC
+-Supercriticality alarm
